@@ -1,4 +1,4 @@
-# TOS_Nuxt_Add_Component
+# TOS Nuxt Add Component
 
 Bonjour,
 <br/> Le but de ce TOS est de vous apprendre à implémenter des composants dans une page nuxtjs3.
